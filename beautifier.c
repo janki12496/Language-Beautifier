@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-	char c[100]="#include<stdio.h>#include<conio.h>void main(){int a=5,b;for(b=0;b<a;b++){printf(b);}a++;}";
+	char c[100]="#include<stdio.h>#include<conio.h>void main(){int a=5,b;for(b=0;b<a;b++){printf(b);}a++;}"; //input
 	int i,j,x,y=0;
 	clrscr();
 	for(i=0;i<strlen(c);i++)
